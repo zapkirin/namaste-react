@@ -1,0 +1,11 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "practice react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
